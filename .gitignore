@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+aiguard-qwen3b/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.jsonl
+synthetic_agent_dataset.json
